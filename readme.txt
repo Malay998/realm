@@ -1,0 +1,1 @@
+style.css this causes the starting animation colour #637
